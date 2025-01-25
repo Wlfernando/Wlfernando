@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<div style='background-image: url(https://img.freepik.com/psd-gratis/fondo-rombo-oscuro_1297-185.jpg?t=st=1737762162~exp=1737765762~hmac=7601bac1e74dd739ae105cd73e907ec541f52908e96b7557904deae5d4981dcc&w=740); background-size: cover; display: grid; place-items: center;font-size: 24px; color: #8a9597;padding-block: 40px; font-weight: 700'>
-  <p>Fernando Alcázar Malfavón</p>
-  <p>Full-stack Developer</p>
+<div align="center" >
+  <img src="/banner de portafolio.jpg" />
 </div>
+
 
 <!--
 **Wlfernando/Wlfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
