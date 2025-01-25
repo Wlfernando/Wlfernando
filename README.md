@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center" >
-  <img src="/banner de portafolio.jpg" />
+  <img src="/banner de portafolio.jpg" width="100%" />
 </div>
 
 
