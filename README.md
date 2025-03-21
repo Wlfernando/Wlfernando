@@ -4,6 +4,45 @@
   <img src="/banner de portafolio.jpg" width="100%" />
 </div>
 
+<table>
+  <caption>Web pages</caption>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th><a href="https://rest-countries-dun-zeta.vercel.app/">Rest Countries</a></th>
+      <td><a href="https://github.com/Wlfernando/rest-countries/blob/main/README.md">ReadMe</a></td>
+    </tr>
+    <tr>
+      <th><a href="https://mortgage-repayment-calculator-beryl.vercel.app/">Mortgage repayment calculator</a></th>
+      <td></td>
+    </tr>
+    <tr>
+      <th><a href="https://product-list-with-cart-lyart-iota.vercel.app/">Product list with cart</a></th>
+      <td></td>
+    </tr>
+    <tr>
+      <th><a href="https://space-tourism-wine-nine.vercel.app">Space tourism</a></th>
+      <td></td>
+    </tr>
+    <tr>
+      <th><a href="https://contact-form-nine-eta.vercel.app/">Contact form</a></th>
+      <td></td>
+    </tr>
+    <tr>
+      <th><a href="https://fylo-dark-theme-eight.vercel.app/">Fylo dark theme</a></th>
+      <td><a href="https://github.com/Wlfernando/fylo-dark-theme/blob/Main/README.md">ReadMe</a></td>
+    </tr>
+    <tr>
+      <th><a href="https://bento-grid-inky.vercel.app/">Bento grid</a></th>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **Wlfernando/Wlfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
