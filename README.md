@@ -4,6 +4,23 @@
   <img src="/banner de portafolio.jpg" width="100%" />
 </div>
 
+## Tech stack
+
+![Static Badge](https://img.shields.io/badge/HTML5-%23fa5c34%20?style=for-the-badge&logo=html5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-%23349efa%20%20?style=for-the-badge&logo=css3&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/JavaScript-%23faf134?style=for-the-badge&logo=javascript&labelColor=white)
+![Static Badge](https://img.shields.io/badge/typescript-%234986f3%20%20%20%20?style=for-the-badge&logo=typescript&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Git-%235d9deb%20%20%20%20?style=for-the-badge&logo=git&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/React-%235dbaeb%20%20%20?style=for-the-badge&logo=react&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/figma-%23f39649%20%20?style=for-the-badge&logo=figma&labelColor=white)
+![Static Badge](https://img.shields.io/badge/NPM-%234986f3%20%20%20%20?style=for-the-badge&logo=npm&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/webpack-%2349d8f3%20?style=for-the-badge&logo=webpack&labelColor=white)
+![Static Badge](https://img.shields.io/badge/rest_api-%2343a956%20?style=for-the-badge&logo=openapiinitiative&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Node.js-%234986f3%20%20%20%20?style=for-the-badge&logo=nodedotjs&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/mongo_db-%2337b64e%20?style=for-the-badge&logo=mongodb&labelColor=white)
+![Static Badge](https://img.shields.io/badge/google_cloud-%234986f3%20%20%20%20?style=for-the-badge&logo=googlecloud&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/express-green%20?style=for-the-badge&labelColor=white)
+
 <table align="center">
   <caption>Web pages</caption>
   <thead>
