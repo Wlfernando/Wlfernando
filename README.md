@@ -20,6 +20,7 @@
 ![Static Badge](https://img.shields.io/badge/mongo_db-%2337b64e%20?style=for-the-badge&logo=mongodb&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/google_cloud-%234986f3%20%20%20%20?style=for-the-badge&logo=googlecloud&logoColor=blue&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/express-green%20?style=for-the-badge&labelColor=white)
+![Static Badge](https://img.shields.io/badge/jest-blue?style=for-the-badge&logo=jest&logoColor=orange&labelColor=white)
 
 <table align="center">
   <caption>Web pages</caption>
