@@ -70,6 +70,34 @@
   </tbody>
 </table>
 
+<table align="center">
+  <caption>Long-term project</caption>
+  <thead>
+    <tr>
+      <th>Description</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Wlfernando/web_project_api_full/blob/main/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/web_project_api_full">Link</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth/blob/main/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth">Link</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth/blob/main/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth">Link</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth/blob/main/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/web_project_around_auth">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **Wlfernando/Wlfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
