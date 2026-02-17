@@ -69,7 +69,28 @@
     </tr>
   </tbody>
 </table>
-
+<table align="center">
+  <caption>News-proyect</caption>
+  <thead>
+    <tr>
+      <th>Develop</th>
+      <th>Description</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>FrontEnd</td>
+      <td><a href="https://github.com/Wlfernando/news-explorer-frontend/blob/stage-react-api/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/news-explorer-frontend/tree/stage-react-api">Link</a></td>
+    </tr>
+    <tr>
+      <td>BackEnd</td>
+      <td><a href="https://github.com/Wlfernando/news-explorer-backend/blob/project-name-backend/README.md">ReadMe</a></td>
+      <td><a href="https://github.com/Wlfernando/news-explorer-backend/tree/project-name-backend">Link</a></td>
+    </tr>
+  </tbody>
+</table>
 <table align="center">
   <caption>Long-term project</caption>
   <thead>
