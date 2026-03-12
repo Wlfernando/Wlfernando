@@ -70,7 +70,7 @@
   </tbody>
 </table>
 <table align="center">
-  <caption>News-proyect</caption>
+  <caption>Client-server</caption>
   <thead>
     <tr>
       <th>Develop</th>
@@ -80,7 +80,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>FrontEnd</td>
+      <td><a href="https://news-explorer-frontend-eipq.onrender.com">News-Project</td>
       <td><a href="https://github.com/Wlfernando/news-explorer-frontend/blob/stage-react-api/README.md">ReadMe</a></td>
       <td><a href="https://github.com/Wlfernando/news-explorer-frontend/tree/stage-react-api">Link</a></td>
     </tr>
