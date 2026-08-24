@@ -33,7 +33,7 @@
   </thead>
   <tbody>
     <tr>
-      <th><a href="https://rest-countries-dun-zeta.vercel.app/">Rest Countries</a></th>
+      <th><a href="https://rest-countries-pz86yqjcl-fernandos-projects-3083a252.vercel.app">Rest Countries</a></th>
       <td><a href="https://github.com/Wlfernando/rest-countries/blob/main/README.md">ReadMe</a></td>
       <td><a href="https://github.com/Wlfernando/rest-countries">Link</a></td>
     </tr>
